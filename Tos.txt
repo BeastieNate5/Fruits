@@ -1,4 +1,4 @@
-By using this Discord bot you agree to the following terms and conditions. If any are broken or unacknowledge you may have your privilege of using this bot revoked.
+By using this Discord bot you agree to the following terms and conditions. If any are broken or unacknowledged you may have your privilege of using this bot revoked.
 
 Data logging
 The Discord bot logs a variety of activities on a daily. The bot will only log activity that relates to this specific discord bot it will not log any messages sent, modifications to the server, or anything else that does not relate to the Discord bot. The bot will log almost all commands that are used especially ones that upload data to the database.
