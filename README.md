@@ -10,7 +10,7 @@ To use almost every command you must first use /init
 
 Then you are able to modify your fruit tables
 
-![image](https://user-images.githubusercontent.com/49249957/196500804-fef1eb44-4c93-4477-9a0a-77a90b1daef8.png)
+![image](https://user-images.githubusercontent.com/49249957/198290839-a406a50f-4e1a-4b37-af1b-a8e77b2d5ad6.png)
 
 ![image](https://user-images.githubusercontent.com/49249957/196500898-9e8911b9-40bb-4556-9af1-47b03391dcc7.png)
 
